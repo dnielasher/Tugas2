@@ -1,0 +1,13 @@
+# Masuk ke folder modules
+cd modules
+
+# Buat folder users
+mkdir users
+cd users
+
+# Buat folder routes dan schema
+mkdir routes
+mkdir schema
+
+# Kembali ke direktori utama proyek
+cd../..
